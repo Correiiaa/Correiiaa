@@ -35,7 +35,7 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 - **Hardware:** ESP32, Arduino, Electronics & Circuit Design.
 
 ## 💼 Professional Experience
-* **Software Developer (React)** @ Esfera Crítica (Feb 2026 - Present)
+* **Software Developer (Full-Stack Intern)** @ Esfera Crítica (Feb 2026 - Present)
 * **Broadcast Graphics Operator** @ Sportflash Solutions (Nov 2024 - May 2025)
 * **Electronics Technician (Intern)** @ JPM Industry & Digistart.
 
