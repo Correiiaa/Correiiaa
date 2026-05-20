@@ -7,6 +7,10 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 
 ## 🚀 Featured Projects
 
+### 🍎 Calories Counter - Next.js Web App (In Production)
+* Modern web platform developed with **Next.js, TypeScript, React, Prisma, and Tailwind CSS.**
+* Integrated with **Google Gemini AI for smart analysis of food images and automatic generation of nutritional information.**
+
 ### 📱 Full-Stack E-commerce Ecosystem
 * **Web:** E-commerce platform built with **JS, HTML5, and CSS3**.
 * **Mobile:** Dedicated app developed in **React Native**.
@@ -16,10 +20,6 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 ### 🛒 Store & Inventory Management (OOP)
 * A robust **Kotlin** console application using **Object-Oriented Programming**.
 * Features a 15-class architecture managing sales, stock, and multi-role user authentication.
-
-### 🤖 Autonomous Wireless Robot (ESP32)
-* **C++** based mobile robot with Bluetooth (BLE) control.
-* Implemented real-time collision avoidance using ultrasonic sensors and PWM motor control.
 
 ### 🦾 Robotic Arm Control (Final Graduation Project)
 * My "origin story" project: A 4-axis robotic arm controlled via a custom **Android App**.
