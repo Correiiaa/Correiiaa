@@ -29,9 +29,9 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Kotlin, PHP, JavaScript, C++ (Arduino), SQL.
+- **Languages:** React, Next.js, Node.js, PHP, Python.
 - **Frontend/Mobile:** React.js, React Native, Tailwind CSS, TypeScript.
-- **Backend/Database:** PHP, MySQL.
+- **Backend/Database:** PostgreSql, MySQL, NextJs, NodeJs.
 - **Hardware:** ESP32, Arduino, Electronics & Circuit Design.
 
 ## 💼 Professional Experience
