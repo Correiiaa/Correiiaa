@@ -12,9 +12,9 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
   <a href="https://github.com/Correiiaa?tab=repositories">
     <img src="https://img.shields.io/badge/REPOSITORIES-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toni-correia)
-  
+  <a href="https://www.linkedin.com/in/toni-correia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
   <a href="https://correiadev.com">
     <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logoColor=white" alt="Correia Dev" />
   </a>
