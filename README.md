@@ -30,7 +30,7 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 * Modern web platform developed with **Next.js, TypeScript, React, Prisma, and Tailwind CSS.**
 * Integrated with **Google Gemini AI for smart analysis of food images and automatic generation of nutritional information.**
 
-### 📱 Full-Stack E-commerce Ecosystem
+### 📱 Full-Stack E-commerce Ecosystem [Mobile](https://github.com/Correiiaa/E-commerce-mobile) [Web](https://github.com/Correiiaa/E-commerce)
 * **Web:** E-commerce platform built with **JS, HTML5, and CSS3**.
 * **Mobile:** Dedicated app developed in **React Native**.
 * **Backend:** Custom API and server-side logic using **PHP** and **MySQL**.
