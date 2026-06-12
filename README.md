@@ -16,7 +16,7 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://correiadev.com">
-    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logoColor=white" alt="Correia Dev" />
+    <img src="https://img.shields.io/badge/WEBSITE-555555?style=for-the-badge&logoColor=white" alt="Correia Dev" />
   </a>
 </p>
 
