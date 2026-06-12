@@ -56,7 +56,8 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 ## 💼 Professional Experience
 * **Software Developer (Full-Stack Intern)** @ Esfera Crítica (Feb 2026 - Present)
 * **Broadcast Graphics Operator** @ Sportflash Solutions (Nov 2024 - May 2025)
-* **Electronics Technician (Intern)** @ JPM Industry & Digistart.
+* **Electronics Technician (Intern)** @ JPM Industry
+* **Electronics Technician (Intern)** @ Digistart
 
 ---
 
