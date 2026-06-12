@@ -1,7 +1,26 @@
+<div align="center">
 # Hi, I'm Toni Correia 👋
 
 ### Software Development | Full-Stack & Embedded Systems
 I am a passionate developer currently studying at the **University of Aveiro**. My background combines **Electronics & Telecommunications** with **Software Engineering**, allowing me to bridge the gap between hardware and high-level applications.
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/Correiiaa?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  
+  <a href="https://linkedin.com/in/toni-correia">
+    <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://correiadev.com">
+    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logoColor=white" alt="Correia Dev" />
+  </a>
+</p>
+
+</div>
 
 ---
 
