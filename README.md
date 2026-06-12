@@ -26,7 +26,7 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 
 ## 🚀 Featured Projects
 
-### [🍎 Calories Counter - Next.js Web App (In Production)](https://github.com/Correiiaa/E-commerce)
+### [🍎 Calories Counter - Next.js Web App (In Production)](https://github.com/Correiiaa/CalTracker)
 * Modern web platform developed with **Next.js, TypeScript, React, Prisma, and Tailwind CSS.**
 * Integrated with **Google Gemini AI for smart analysis of food images and automatic generation of nutritional information.**
 
