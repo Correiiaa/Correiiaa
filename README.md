@@ -26,7 +26,7 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 
 ## 🚀 Featured Projects
 
-### [🍎 Calories Counter - Next.js Web App (In Production)](https://github.com/Correiiaa/CalTracker)
+### 🍎 Calories Counter - Next.js Web App (In Production) [Repo](https://github.com/Correiiaa/CalTracker)
 * Modern web platform developed with **Next.js, TypeScript, React, Prisma, and Tailwind CSS.**
 * Integrated with **Google Gemini AI for smart analysis of food images and automatic generation of nutritional information.**
 
@@ -36,11 +36,11 @@ I am a passionate developer currently studying at the **University of Aveiro**. 
 * **Backend:** Custom API and server-side logic using **PHP** and **MySQL**.
 * *Key Highlight:* Full integration between web and mobile platforms using a shared database.
 
-### 🛒 [Store & Inventory Management (OOP)](https://github.com/Correiiaa/Sistema_De_Gestao_Loja)
+### 🛒 Store & Inventory Management (OOP)[Repo](https://github.com/Correiiaa/Sistema_De_Gestao_Loja)
 * A robust **Kotlin** console application using **Object-Oriented Programming**.
 * Features a 15-class architecture managing sales, stock, and multi-role user authentication.
 
-### 🦾 [Robotic Arm Control (Final Graduation Project)](https://github.com/Correiiaa/Robotic-Arm-Bluetooth-Control)
+### 🦾 Robotic Arm Control (Final Graduation Project)[Repo](https://github.com/Correiiaa/Robotic-Arm-Bluetooth-Control)
 * My "origin story" project: A 4-axis robotic arm controlled via a custom **Android App**.
 * Built with **Arduino** and Bluetooth communication.
 
