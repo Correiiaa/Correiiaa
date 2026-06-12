@@ -1,7 +1,8 @@
 <div align="center">
+  
 # Hi, I'm Toni Correia 👋
 
-### Software Development | Full-Stack & Embedded Systems
+** Software Development | Full-Stack & Embedded Systems **
 I am a passionate developer currently studying at the **University of Aveiro**. My background combines **Electronics & Telecommunications** with **Software Engineering**, allowing me to bridge the gap between hardware and high-level applications.
 
 <br />
